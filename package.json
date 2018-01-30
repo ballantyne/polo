@@ -5,7 +5,7 @@
   "dependencies": {
     "common": "^0.2.5",
     "request": "^2.48.0",
-    "root": "^3.0.0"
+    "root": "git@github.com:ballantyne/root.git"
   },
   "repository": "git://github.com/mafintosh/polo",
   "description": "a zero configuration discovery service written completely in Javascript",
